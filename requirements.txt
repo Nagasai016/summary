@@ -1,0 +1,9 @@
+streamlit
+yt-dlp
+pydub
+opencv-python
+pytesseract
+transformers
+torch
+requests
+scikit-image
